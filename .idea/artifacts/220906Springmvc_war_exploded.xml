@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="220906Springmvc:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/220906Springmvc_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="220906Springmvc/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="220906Springmvc" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="c3p0-0.9.0" />
+          <element id="library" level="project" name="lib" />
+          <element id="library" level="project" name="asm-9.2" />
+          <element id="library" level="project" name="asm-9.2 (2)" />
+          <element id="library" level="project" name="commons-logging-1.2" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
